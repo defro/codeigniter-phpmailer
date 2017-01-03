@@ -1,0 +1,19 @@
+{
+    "name": "defro/codeigniter-phpmailer",
+    "description": "CodeIgniter Mail Package Powered by PHPMailer Library",
+    "keywords": ["codeigniter","phpmailer", "mail"],
+    "type": "library",
+    "homepage": "https://github.com/defro/codeigniter-phpmailer",
+    "require": {
+        "php": ">=5.2.4",
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joël Gaujard",
+            "email": "j.gaujard@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
